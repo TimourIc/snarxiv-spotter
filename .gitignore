@@ -7,6 +7,7 @@ results/models/*
 !results/models/.gitkeep
 !results/figures/snarxiv_snapshot.PNG
 mlflow.db
+__pycache__
  
 
 #virtual environments
