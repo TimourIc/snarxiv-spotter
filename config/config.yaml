@@ -1,0 +1,5 @@
+paths:
+    data_path: "data/"
+    results_path: "results/"
+urls:
+    base_url_snarxiv: "https://snarxiv.org/"

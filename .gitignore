@@ -1,0 +1,16 @@
+
+data/*
+logs/*
+!logs/.gitkeep
+!data/.gitkeep
+results/models/*
+!results/models/.gitkeep
+!results/figures/snarxiv_snapshot.PNG
+mlflow.db
+ 
+
+#virtual environments
+venv/*
+
+#package metadata
+*.egg-info/
