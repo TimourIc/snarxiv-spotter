@@ -20,6 +20,11 @@ The goal of this repository is simple: fine-tune an existing pre-trained languag
 
 
 ## Setting up and training
+Close repository:
+
+```python
+git clone https://github.com/TimourIc/snarxiv-spotter
+```
 
 Create venv and install requirements:
 
